@@ -12,7 +12,7 @@ This project aims to make it easy for users to encrypt and decrypt messages usin
   ii. Decryption: Converts ciphertext back into plaintext by shifting each letter backward by the same number of places.
 
 2. Customizable Shift Values:
-  Users can specify a shift value ranging from 0 to 25. This shift determines how many positions each letter in the message is shifted in the alphabet.
+  Users can specify a shift value ranging from 0 and 25. This shift determines how many positions each letter in the message is shifted in the alphabet.
 
 3. User-Friendly Interface:
   Designed using Tkinter, the GUI includes input fields, buttons, and display areas to make it easy for users to interact with the application.
